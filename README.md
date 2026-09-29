@@ -18,4 +18,6 @@ React · TypeScript · Next.js · JavaScript · Tailwind CSS · Git · REST APIs
 
 ## Links
 
-Portfolio | LinkedIn
+https://divine-code-five.vercel.app/ | www.linkedin.com/in/lovepreetsingh135
+
+
