@@ -1,16 +1,21 @@
-## Hi there 👋
+# Love Preet Singh
 
-<!--
-**divineconnect135/divineconnect135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on React, TypeScript, Next.js, and modern web applications.
 
-Here are some ideas to get you started:
+I build responsive applications with reusable component architecture,
+REST APIs, routing, state management, caching, and production deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- Tech Store
+- GitHub Explorer
+- Developer Resource Explorer
+- TaskDone
+
+## Tech
+
+React · TypeScript · Next.js · JavaScript · Tailwind CSS · Git · REST APIs
+
+## Links
+
+Portfolio | LinkedIn
