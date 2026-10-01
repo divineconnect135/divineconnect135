@@ -38,23 +38,25 @@ Currently focused on improving my skills in application architecture, testing, a
 
 ## Featured Projects
 
-### GitHub Explorer
+---
 
-A GitHub user search application built with React and TypeScript using the GitHub REST API.
+### Developer Resource Explorer
+
+A responsive web application for discovering developer tools and resources, built with React and TypeScript.
 
 **Highlights**
-- Live user search with suggestions
-- Debounced search
-- GitHub REST API integration
-- TanStack Query caching and async state management
-- Loading and error states
-- Recent-search persistence with localStorage
-- Responsive interface
+- Search developer tools and resources
+- Category filtering and sorting
+- Favorites with persistent localStorage
+- Dynamic resource detail pages
+- React Router navigation
+- Custom empty and 404 states
+- Responsive layouts across mobile, tablet, and desktop
 
-**Tech:** React · TypeScript · Tailwind CSS · TanStack Query · Vite · GitHub REST API
+**Tech:** React · TypeScript · Tailwind CSS · Vite · React Router · Context API
 
-[Live Demo](https://github-explorer-seven-bice.vercel.app/) ·
-[Source Code](https://github.com/divineconnect135/github-explorer)
+[Live Demo](https://developer-resource-explorer.vercel.app/) ·
+[Source Code](https://github.com/divineconnect135/developer-resource-explorer)
 
 ---
 
