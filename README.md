@@ -79,26 +79,6 @@ A responsive e-commerce frontend with product discovery and shopping cart functi
 
 ---
 
-### Developer Resource Explorer
-
-A responsive application for discovering developer tools and resources.
-
-**Highlights**
-- Resource search and category filtering
-- Sorting and favorites
-- Dynamic resource pages
-- React Router navigation
-- Context API state management
-- Persistent favorites using localStorage
-- Responsive desktop, tablet, and mobile layouts
-
-**Tech:** React · TypeScript · Tailwind CSS · React Router · Context API · Vite
-
-[Live Demo](https://developer-resource-explorer.vercel.app/) ·
-[Source Code](https://github.com/divineconnect135/developer-resource-explorer)
-
----
-
 ### TaskDone
 
 A task management application built with vanilla JavaScript to strengthen core frontend fundamentals without relying on a framework.
