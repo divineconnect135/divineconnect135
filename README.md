@@ -1,48 +1,74 @@
 # Hi, I'm Love Preet Singh
 
-### Frontend Developer | React | TypeScript | Next.js
+### Full-Stack Developer | React · Next.js · TypeScript · Node.js · Express.js
 
-I'm a frontend developer based in Halifax, Nova Scotia, focused on building responsive, maintainable web applications with modern JavaScript technologies.
+I'm a full-stack developer based in Halifax, Nova Scotia, focused on building responsive, accessible, and scalable web applications with modern JavaScript and TypeScript technologies.
 
-I work primarily with React, TypeScript, Next.js, Tailwind CSS, REST APIs, and modern frontend tooling. My projects include API-driven applications, e-commerce interfaces, task management tools, and resource discovery platforms.
+I work across the stack with React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, and REST APIs. I enjoy building clean user interfaces, reliable backend services, secure authentication flows, and well-structured applications that are maintainable and production-ready.
 
-Currently focused on improving my skills in application architecture, testing, accessibility, backend integration, and production-ready frontend development.
+I'm currently focused on strengthening my skills in full-stack architecture, testing, accessibility, authentication, database design, performance, and deployment.
 
 ---
 
 ## Tech Stack
 
 ### Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
 ![React Router](https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-000?style=flat-square&logo=reactquery)
 
-### Tools
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express)
+![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
+
+### Databases & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-000?style=flat-square&logo=mongoose)
+
+### Authentication & Validation
+
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
+![Zod](https://img.shields.io/badge/Zod-000?style=flat-square&logo=zod)
+
+### Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-000?style=flat-square&logo=vitest)
+![Testing Library](https://img.shields.io/badge/Testing_Library-000?style=flat-square&logo=testinglibrary)
+![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright)
+
+### Tools & DevOps
+
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
-![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions)
 ![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite)
 
 ---
 
 ## Featured Projects
 
----
-
 ### Developer Resource Explorer
 
-A responsive web application for discovering developer tools and resources, built with React and TypeScript.
+A responsive application for discovering developer tools and resources, built with React and TypeScript.
 
 **Highlights**
 - Search developer tools and resources
@@ -55,8 +81,7 @@ A responsive web application for discovering developer tools and resources, buil
 
 **Tech:** React · TypeScript · Tailwind CSS · Vite · React Router · Context API
 
-[Live Demo](https://developer-resource-explorer.vercel.app/) ·
-[Source Code](https://github.com/divineconnect135/developer-resource-explorer)
+[Live Demo](https://developer-resource-explorer.vercel.app/) · [Source Code](https://github.com/divineconnect135/developer-resource-explorer)
 
 ---
 
@@ -76,20 +101,19 @@ A responsive e-commerce frontend with product discovery and shopping cart functi
 
 **Tech:** React · TypeScript · Tailwind CSS · React Router · Context API
 
-[Live Demo](https://tech-store-sable-rho.vercel.app/) ·
-[Source Code](https://github.com/divineconnect135/tech-store)
+[Live Demo](https://tech-store-sable-rho.vercel.app/) · [Source Code](https://github.com/divineconnect135/tech-store)
 
 ---
 
 ### TaskDone
 
-A task management application built with vanilla JavaScript to strengthen core frontend fundamentals without relying on a framework.
+A task management application built with vanilla JavaScript to strengthen core JavaScript and browser fundamentals without relying on a framework.
 
 **Highlights**
 - Create, edit, and delete tasks
 - Drag-and-drop task management
 - LocalStorage persistence
-- Form handling
+- Form handling and validation
 - DOM manipulation
 - Modular JavaScript architecture
 - Responsive interface
@@ -102,11 +126,15 @@ A task management application built with vanilla JavaScript to strengthen core f
 
 ## What I'm Working On
 
-- Writing more maintainable React and TypeScript applications
-- Improving frontend testing with Vitest and React Testing Library
-- Building more accessible user interfaces
-- Expanding my Next.js knowledge
-- Working with APIs, authentication, databases, and backend integration
+- Building production-ready full-stack applications
+- Designing RESTful APIs with Node.js and Express.js
+- Working with PostgreSQL, MongoDB, Prisma, and Mongoose
+- Implementing authentication, authorization, and server-side validation
+- Improving testing with Vitest, React Testing Library, Supertest, and Playwright
+- Building accessible and responsive user interfaces
+- Improving application architecture and performance
+- Working with Docker, CI/CD, and deployment workflows
+- Exploring practical integrations with generative AI APIs
 
 ---
 
@@ -115,18 +143,19 @@ A task management application built with vanilla JavaScript to strengthen core f
 **Meta Front-End Developer Professional Certificate**  
 Meta / Coursera
 
-Additional coursework in:
+Additional technical training in:
 
-- Modern JavaScript
+- JavaScript
 - React
 - HTML & CSS
 - Tailwind CSS
+- Modern web development
 
 ---
 
 ## Portfolio
 
-You can view more of my work here:
+Explore more of my work:
 
 [divine-code-five.vercel.app](https://divine-code-five.vercel.app/)
 
@@ -141,4 +170,4 @@ You can view more of my work here:
 
 ---
 
-> Open to junior frontend developer opportunities where I can contribute to real products, continue improving as a developer, and work with React, TypeScript, and modern frontend technologies.
+> Open to junior full-stack and frontend developer opportunities where I can contribute to real products, work with modern web technologies, and continue growing as a software developer.
