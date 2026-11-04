@@ -1,12 +1,18 @@
 # Hi, I'm Love Preet Singh
 
-### Full-Stack Developer | React · Next.js · TypeScript · Node.js · Express.js
+### Full-Stack Developer | React · Next.js · TypeScript · Node.js · AI Integration
 
-I'm a full-stack developer based in Halifax, Nova Scotia, focused on building responsive, accessible, and scalable web applications with modern JavaScript and TypeScript technologies.
+I'm a full-stack developer based in **Halifax, Nova Scotia, Canada**, building responsive, accessible, and database-driven web applications.
 
-I work across the stack with React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, and REST APIs. I enjoy building clean user interfaces, reliable backend services, secure authentication flows, and well-structured applications that are maintainable and production-ready.
+I specialize in the JavaScript and TypeScript ecosystem, with hands-on experience developing modern React interfaces, REST APIs, authentication systems, database-backed applications, and full-stack projects deployed to the cloud.
 
-I'm currently focused on strengthening my skills in full-stack architecture, testing, accessibility, authentication, database design, performance, and deployment.
+My recent work also includes **AI API integration**, using OpenAI-powered workflows, structured response validation, and AI-generated recommendations to solve practical software development problems.
+
+I focus on writing clean, maintainable code and understanding how frontend development, backend architecture, databases, security, testing, and deployment work together to build reliable applications.
+
+**Currently:** Expanding my full-stack engineering skills, building practical applications with AI-assisted features, strengthening automated testing and system design, and exploring software development opportunities.
+
+[Portfolio](https://divine-code-five.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lovepreetsingh135/) · [Email](mailto:divineconnect135@gmail.com)
 
 ---
 
@@ -14,160 +20,237 @@ I'm currently focused on strengthening my skills in full-stack architecture, tes
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3)
+JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · SQL
 
-### Frontend
+### Frontend Development
 
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss)
-![React Router](https://img.shields.io/badge/React_Router-000?style=flat-square&logo=reactrouter)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-000?style=flat-square&logo=reactquery)
+React · Next.js · Tailwind CSS · Vite · React Router · Context API · Responsive Design · Accessibility
 
-### Backend
+### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-000?style=flat-square)
+Node.js · Express.js · REST APIs · Server-Side Validation · Authentication · Authorization · API Middleware
 
 ### Databases & ORM
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
-![Mongoose](https://img.shields.io/badge/Mongoose-000?style=flat-square&logo=mongoose)
+PostgreSQL · MongoDB · Prisma ORM · Mongoose · Neon · MongoDB Atlas
 
-### Authentication & Validation
+### AI Integration & Development
 
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
-![Zod](https://img.shields.io/badge/Zod-000?style=flat-square&logo=zod)
+OpenAI API · LLM API Integration · Prompt Design · Structured AI Outputs · Zod-Based Response Validation · AI-Assisted Recommendations · Mock AI Providers · AI Error Handling
 
-### Testing
+### Authentication & Security
 
-![Vitest](https://img.shields.io/badge/Vitest-000?style=flat-square&logo=vitest)
-![Testing Library](https://img.shields.io/badge/Testing_Library-000?style=flat-square&logo=testinglibrary)
-![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright)
+Better Auth · Session-Based Authentication · Zod · Protected Routes · Role-Based Access Control · CSRF Protection · API Rate Limiting · Input Validation
+
+### Testing & Quality
+
+Vitest · React Testing Library · Supertest · Playwright · Unit Testing · Integration Testing · End-to-End Testing · TypeScript Type Checking
+
+### UI, Animation & Payments
+
+Three.js · React Three Fiber · GSAP · Stripe Checkout (Test Mode)
 
 ### Tools & DevOps
 
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite)
+Git · GitHub · GitHub Actions · VS Code · npm · Vercel · Render · Neon · MongoDB Atlas · Prisma Migrations · Environment Configuration · CI/CD Workflows
 
 ---
 
 ## Featured Projects
 
-### Developer Resource Explorer
+### 01. Forma — Full-Stack 3D E-Commerce Platform
 
-A responsive application for discovering developer tools and resources, built with React and TypeScript.
+**A full-stack e-commerce application featuring interactive 3D product previews, secure authentication, inventory management, an administrative dashboard, and Stripe test payments.**
 
-**Highlights**
-- Search developer tools and resources
-- Category filtering and sorting
-- Favorites with persistent localStorage
-- Dynamic resource detail pages
-- React Router navigation
-- Custom empty and 404 states
-- Responsive layouts across mobile, tablet, and desktop
+Forma demonstrates how modern frontend experiences, backend APIs, database transactions, payment processing, and application security work together in a realistic online shopping platform.
 
-**Tech:** React · TypeScript · Tailwind CSS · Vite · React Router · Context API
+**Key Features**
 
-[Live Demo](https://developer-resource-explorer.vercel.app/) · [Source Code](https://github.com/divineconnect135/developer-resource-explorer)
+- Responsive storefront with product search, filtering, sorting, and pagination
+- Interactive 3D product visualization using Three.js and React Three Fiber
+- Customer registration, login, and secure session management
+- CSRF protection and role-based authorization for protected operations
+- Persistent shopping cart supporting product variants and quantities
+- Stripe-hosted Checkout integration using test payments
+- Transactional inventory reservations and payment recovery workflows
+- Customer order history and order tracking
+- Administrative dashboard for product, inventory, and order management
+- Backend API testing and frontend component testing
+- Cloud deployment using Vercel, Render, and MongoDB Atlas
 
----
+**Tech Stack:** React · TypeScript · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose · Three.js · React Three Fiber · GSAP · Stripe · Vitest
 
-### Tech Store
+**Deployment:** Vercel (Frontend) · Render (Backend) · MongoDB Atlas (Database)
 
-A responsive e-commerce frontend with product discovery and shopping cart functionality.
+[Source Code](https://github.com/divineconnect135/forma)
 
-**Highlights**
-- Product search, filtering, and sorting
-- Product detail pages
-- Shopping cart management
-- Persistent cart state with localStorage
-- Quantity controls and subtotal calculations
-- Checkout validation
-- Responsive navigation
-- Custom empty and 404 states
-
-**Tech:** React · TypeScript · Tailwind CSS · React Router · Context API
-
-[Live Demo](https://tech-store-sable-rho.vercel.app/) · [Source Code](https://github.com/divineconnect135/tech-store)
+*Portfolio demonstration using Stripe Test Mode. No real payments are processed.*
 
 ---
 
-### TaskDone
+### 02. AI Test Coverage Analyzer — Full-Stack AI-Assisted Testing Platform
 
-A task management application built with vanilla JavaScript to strengthen core JavaScript and browser fundamentals without relying on a framework.
+**A full-stack application that helps developers and QA engineers organize software requirements, manage test cases, and identify potential testing gaps through AI-assisted analysis.**
 
-**Highlights**
-- Create, edit, and delete tasks
-- Drag-and-drop task management
-- LocalStorage persistence
-- Form handling and validation
-- DOM manipulation
-- Modular JavaScript architecture
-- Responsive interface
+AI Test Coverage Analyzer combines traditional full-stack development with **OpenAI API integration, structured AI responses, and persistent analysis history**.
 
-**Tech:** JavaScript · HTML · Tailwind CSS · ES Modules · Drag and Drop API
+The application analyzes documented requirements and existing test-case descriptions to recommend potentially missing positive, negative, and edge-case testing scenarios.
 
-[Source Code](https://github.com/divineconnect135/taskdone)
+**Key Features**
 
----
+- Email and password registration, login, and secure session management using Better Auth
+- Protected routes and user-specific project access
+- Project creation, editing, deletion, and dashboard statistics
+- Requirements management with unique requirement identifiers
+- Test case management with execution steps, expected results, types, and statuses
+- Many-to-many relationships between requirements and test cases
+- AI-assisted assessment of potential requirement coverage gaps
+- OpenAI integration for generating suggested testing scenarios and explanations
+- Structured AI output validation using Zod
+- Deterministic mock AI provider for development and automated testing
+- Ability to save AI-generated suggestions as reusable test cases
+- Persistent analysis history with previous results and original input snapshots
+- API authentication, ownership validation, request limits, and error handling
+- Responsive React dashboard with mobile navigation and accessible form interactions
+- Backend, frontend, and end-to-end testing using Vitest, Supertest, React Testing Library, and Playwright
+- Cloud deployment architecture using Render, Neon PostgreSQL, and GitHub Actions
 
-## What I'm Working On
+**Tech Stack:** React · TypeScript · Tailwind CSS · Vite · Node.js · Express.js · PostgreSQL · Prisma ORM · Better Auth · Zod · OpenAI API · Vitest · Playwright
 
-- Building production-ready full-stack applications
-- Designing RESTful APIs with Node.js and Express.js
-- Working with PostgreSQL, MongoDB, Prisma, and Mongoose
-- Implementing authentication, authorization, and server-side validation
-- Improving testing with Vitest, React Testing Library, Supertest, and Playwright
-- Building accessible and responsive user interfaces
-- Improving application architecture and performance
-- Working with Docker, CI/CD, and deployment workflows
-- Exploring practical integrations with generative AI APIs
+**Deployment:** Render (Full-Stack Application) · Neon (PostgreSQL) · GitHub Actions (Database Migrations)
 
----
+[Source Code](https://github.com/divineconnect135/ai-test-coverage-analyzer)
 
-## Certification
+**Engineering Highlights**
 
-**Meta Front-End Developer Professional Certificate**  
-Meta / Coursera
+- Designed REST APIs with authentication and project-level authorization to protect user-owned data.
+- Integrated a configurable AI provider architecture with structured output validation and server-side safeguards.
+- Implemented persisted AI analysis results, allowing users to review previous suggestions without repeating provider requests.
+- Developed automated browser tests covering authentication, project creation, requirements, test cases, and database persistence.
 
-Additional technical training in:
-
-- JavaScript
-- React
-- HTML & CSS
-- Tailwind CSS
-- Modern web development
+*The application evaluates potential testing gaps based on supplied requirements and test descriptions. It does not execute tests or measure actual source-code coverage. The AI integration supports a mock provider for development and an OpenAI provider when configured.*
 
 ---
 
-## Portfolio
+### 03. Subscription Tracker — Full-Stack Subscription Management
 
-Explore more of my work:
+**A full-stack Next.js application for organizing recurring subscriptions, tracking expenses, and monitoring upcoming billing dates.**
 
-[divine-code-five.vercel.app](https://divine-code-five.vercel.app/)
+Designed around secure account access, user-owned data, and accurate recurring expense summaries.
+
+**Key Features**
+
+- Account registration, login, and logout using Better Auth
+- Protected routes and server-side authorization for private subscription data
+- Create, view, update, and delete subscriptions with confirmation and validation
+- Financial dashboard with normalized monthly and yearly spending summaries
+- Upcoming renewal tracking and category-based expense information
+- Search, category and status filters, and subscription sorting
+- Responsive desktop and mobile navigation, loading states, and empty states
+- PostgreSQL persistence through Prisma ORM and Neon
+- Unit, integration, and end-to-end testing with Vitest and Playwright
+- Production deployment on Vercel with a GitHub Actions database migration workflow
+
+**Tech Stack:** Next.js 16 · TypeScript · Tailwind CSS 4 · Prisma 7 · PostgreSQL · Neon · Better Auth · Zod · Vitest · Playwright
+
+**Deployment:** Vercel (Application) · Neon (Database)
+
+[Live Demo](https://subscription-tracker-omega-sandy.vercel.app/) · [Source Code](https://github.com/divineconnect135/subscription-tracker)
+
+*Subscription tracking only; no real subscription payments or cancellations are processed.*
 
 ---
 
-## Connect With Me
+## What I'm Currently Working On
 
-- [LinkedIn](https://www.linkedin.com/in/lovepreetsingh135/)
-- [Portfolio](https://divine-code-five.vercel.app/)
-- [GitHub](https://github.com/divineconnect135)
-- Email: `divineconnect135@gmail.com`
+I'm continuing to strengthen my software engineering skills by building practical full-stack applications and learning how to design, test, secure, and deploy them effectively.
+
+### Full-Stack Architecture
+
+Designing maintainable React, Next.js, and Node.js applications with clear separation of responsibilities between frontend interfaces, backend APIs, services, and databases.
+
+### AI Integration
+
+Exploring practical applications of large language model APIs, including:
+
+- Integrating OpenAI APIs into full-stack applications
+- Designing prompts for structured, task-specific outputs
+- Validating AI-generated responses before storing them
+- Implementing mock providers for repeatable automated testing
+- Handling AI request failures, rate limits, and input constraints
+- Building workflows where users review AI recommendations before taking action
+
+### Backend Engineering
+
+Developing REST APIs with Express.js, middleware, authentication, authorization, server-side validation, and consistent error handling.
+
+### Database Design
+
+Working with relational and document databases using PostgreSQL, MongoDB, Prisma, and Mongoose.
+
+Improving my understanding of schema design, database relationships, transactions, migrations, and data ownership.
+
+### Testing and Reliability
+
+Building confidence in applications through:
+
+- Unit testing with Vitest
+- React component testing with React Testing Library
+- Backend API testing with Supertest
+- End-to-end testing with Playwright
+- Input and response validation
+- Error handling and edge-case testing
+
+### Application Security
+
+Strengthening my understanding of secure sessions, CSRF protection, role-based authorization, API rate limiting, input validation, secret management, and safe handling of AI-generated content.
+
+### Frontend Engineering
+
+Building accessible, responsive user interfaces with React, Next.js, TypeScript, and Tailwind CSS.
+
+Focusing on reusable components, intuitive navigation, loading states, form feedback, mobile responsiveness, and clear visual hierarchy.
+
+### Deployment and DevOps
+
+Improving production deployment workflows using GitHub Actions, Vercel, Render, Neon, environment variables, database migrations, and deployment verification.
 
 ---
 
-> Open to junior full-stack and frontend developer opportunities where I can contribute to real products, work with modern web technologies, and continue growing as a software developer.
+## My Development Approach
+
+When building applications, I focus on several principles:
+
+- **Understand the problem:** Define what the application needs to accomplish before selecting technologies.
+- **Build maintainable systems:** Separate UI components, API routes, business logic, and database operations.
+- **Protect user data:** Apply authentication, authorization, input validation, and appropriate security controls.
+- **Handle failures:** Design useful error messages, loading states, and recovery paths.
+- **Test critical workflows:** Verify important application behavior through automated and manual testing.
+- **Deploy and verify:** Treat production configuration, database migrations, and post-deployment checks as part of development.
+- **Use AI responsibly:** Validate AI outputs and present generated recommendations for user review rather than treating them as guaranteed facts.
+
+---
+
+## What I Bring to a Development Team
+
+Through my portfolio projects, I have gained hands-on experience working across multiple parts of the application lifecycle:
+
+**Frontend:** Translating product requirements into responsive React interfaces and reusable components.
+
+**Backend:** Designing APIs, implementing application logic, and managing authenticated user workflows.
+
+**Databases:** Structuring persistent data, defining relationships, and managing schema changes.
+
+**AI Integration:** Connecting applications to language model APIs and building validated, user-controlled AI-assisted features.
+
+**Testing:** Creating automated checks for individual components, API behavior, and complete user journeys.
+
+**Deployment:** Preparing and deploying full-stack applications using cloud hosting platforms and database services.
+
+I am continuing to grow in these areas and applying what I learn to increasingly complete, production-oriented projects.
+
+---
+
+## Career Interests
+
+I'm interested in opportunities where I can contribute to building and improving real software products while continuing to develop as an engineer
