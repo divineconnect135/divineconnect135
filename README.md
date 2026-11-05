@@ -58,7 +58,7 @@ Git · GitHub · GitHub Actions · VS Code · npm · Vercel · Render · Neon ·
 
 ## Featured Projects
 
-### 01. Forma — Full-Stack 3D E-Commerce Platform
+### 01. Forma — Full-Stack 3D E-Commerce Platform 
 
 **A full-stack e-commerce application featuring interactive 3D product previews, secure authentication, inventory management, an administrative dashboard, and Stripe test payments.**
 
@@ -82,13 +82,13 @@ Forma demonstrates how modern frontend experiences, backend APIs, database trans
 
 **Deployment:** Vercel (Frontend) · Render (Backend) · MongoDB Atlas (Database)
 
-[Source Code](https://github.com/divineconnect135/forma)
+[Live Demo](https://forma-psi-lemon.vercel.app/) . [Source Code](https://github.com/divineconnect135/forma)
 
 *Portfolio demonstration using Stripe Test Mode. No real payments are processed.*
 
 ---
 
-### 02. AI Test Coverage Analyzer — Full-Stack AI-Assisted Testing Platform
+### 02. AI Test Coverage Analyzer — Full-Stack AI-Assisted Testing Platform 
 
 **A full-stack application that helps developers and QA engineers organize software requirements, manage test cases, and identify potential testing gaps through AI-assisted analysis.**
 
@@ -119,7 +119,7 @@ The application analyzes documented requirements and existing test-case descript
 
 **Deployment:** Render (Full-Stack Application) · Neon (PostgreSQL) · GitHub Actions (Database Migrations)
 
-[Source Code](https://github.com/divineconnect135/ai-test-coverage-analyzer)
+[Live Demo](https://ai-test-coverage-analyzer.onrender.com/) . [Source Code](https://github.com/divineconnect135/ai-test-coverage-analyzer)
 
 **Engineering Highlights**
 
